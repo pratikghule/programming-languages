@@ -1,0 +1,43 @@
+Functional Programming Languages
+
+    Functional programming languages define every computation as a mathematical evaluation. They focus on the application of functions. Many of the functional programming languages are bound to mathematical calculations.
+
+Charity
+
+It is a purely functional, not-Turing-complete language, which means that all its programs are guaranteed to terminate. Charity was designed at the University of Calgary, a public University in Canada.
+Clean
+
+It is a purely functional programming language that supports portability across platforms, automatic garbage collection, multiple data structures and referential transparency, which means that a function with a given input will always give the same output.
+Curry
+
+It is a functional logic programming language that implements functional and logic programming as well as constraint programming, wherein the relationships between variables are stated in the form of constraints.
+Erlang
+
+It is a concurrent programming language that includes a sequential subset, which supports functional programming. Ericsson developed Erlang as a distributed soft real-time and fault-tolerant language and released it as an open source computer programming language in 1998. It is one of the most popularly used functional programming languages.
+F#
+
+It targets the .NET Framework and supports both functional as well as imperative object-oriented programming. Don Syme at the Microsoft Research developed this language, which is now being developed at the Microsoft Developer Division. F Sharp, as it is called, will soon be integrated into the .NET Framework and Visual Studio.
+Haskell
+
+Named in honor of Haskell Curry, a logician, Haskell is a standardized purely functional language. It supports pattern matching, definable operators, single assignment, algebraic data types and recursive functions.
+Joy
+
+It is a purely functional language that is based on a composition of functions. Manfred von Thun of La Trobe University in Australia developed this language.
+Kite
+
+It came up in 2006 with a feature set consisting of a blend of object-oriented and functional programming features. It is a fast-running language. Interestingly, Kite uses the pipe character for functional calls rather than using the period or arrow characters in other languages.
+ML
+
+Robin Milner and his associates at the University of Edinburgh came up with ML in the 1970s. It is an impure functional language as it supports imperative programming. Standard ML is popular among compiler writers and is a modular, functional programming language. Alice is a dialect of Standard ML, which supports distributed computing, multithreading and constraint programming. Caml is another dialect of ML and is a statically typed language that supports automatic memory management. Ocaml is the implementation of Caml that is developed as an open source project. JoCaml is a version of Ocaml based on join-calculus.
+Nemerle
+
+It is a statically typed programming language that is designed for the .NET platform. Programs in Nemerle are compiled into an intermediate language bytecode. It supports functional, imperative, and object-oriented programming.
+OPAL
+
+The name stands for Optimized Applicative Language and is a functional programming language developed at the Technical University of Berlin.
+OPS5
+
+It is a rule-based production system computer language that became the first language to be used in an expert system.
+Q
+
+It is called Q for being an equational programming language. It is an interpreted functional language that was designed by Albert Graf at the University of Mainz in Germany. It can be described as a set of equations used to evaluate expressions.
