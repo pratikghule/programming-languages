@@ -1,0 +1,43 @@
+Scripting Languages
+
+    Scripting languages are programming languages that control an application. Scripts can execute independent of any other application. They are mostly embedded in the application that they control and are used to automate frequently executed tasks like communicating with external programs.
+
+AppleScript
+
+It is a scripting language that is built into the Mac OS.
+Awk
+
+Awk was born in the Bell Labs in the 1970s. It is used for processing text-based data in data streams and files and uses the string datatype, arrays, and regular expressions.
+BeanShell
+
+It is a java scripting language that is syntactically similar to Java and runs on the Java Runtime Environment along with scripting commands and syntax.
+ColdFusion
+
+It is an application server and software development framework that comes with an associated scripting language known as ColdFusion Markup Language. It is known as CFML and is similar to HTML in terms of its syntax.
+F-Script
+
+It is an object-oriented scripting language that is closely similar to Smalltalk with an additional feature of array programming.
+JASS
+
+It is an event-driven scripting language that provides the programmers with an extensive API.
+Maya Embedded Language
+
+Abbreviated as MEL, it is a scripting language that is used to support tasks on the Maya software. Its syntax resembles that of Perl.
+Mondrian
+
+This scripting language is aimed for Internet use and is looked upon as being a combination of Haskell and Java.
+PHP
+
+PHP is one of the very popularly used general purpose scripting languages. It is developed for creating dynamic web pages and supports a command line interface capability.
+Revolution
+
+It is a rapid application development language that is based on HyperTalk. It is a cross-platform language that supports dynamic typing.
+Tcl
+
+It is a scripting language, which is believed to be easy to learn. It is used for rapid prototyping and has found utility in embedded systems.
+VBScript
+
+It is an active scripting language that Microsoft developed as a variation of Microsoft Visual Basic. VBScript is a default component with each of the Desktop releases of Microsoft Windows.
+Windows PowerShell
+
+It is Microsoft’s command line shell and a scripting language. Released in 2006, it is available with Windows XP, Windows Vista as also with Windows Server 3003 and Windows Server 2008. It works in collaboration with Microsoft .NET Framework by means of executables, forms of standalone applications, regular .NET classes, cmdlets that are specialized .NET classes and scripts, the compositions of cmdlets and imperative logic.
