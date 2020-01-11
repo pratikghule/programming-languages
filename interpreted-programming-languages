@@ -1,0 +1,67 @@
+Interpreted Programming Languages
+
+    An interpreted language is a programming language for which most of its implementations execute instructions directly, without previously compiling a program into machine-language instructions. The interpreter executes the program directly, translating each statement into a sequence of one or more subroutines already compiled into machine code. (Wikipedia)
+
+APL
+
+Named after the book A Programming Language (Iverson, Kenneth E., 1962), APL is an array programming language. It can work simultaneously on multiple arrays of data. It is interpretive, interactive and a functional programming language.
+AutoIt
+
+It is a freeware automation language for Microsoft Windows. It’s main intent is to create automation scripts that can be used for the execution of certain repetitive tasks on Windows.
+BASIC
+
+Developed by John George Kemeny and Thomas Eugene Kurtz at Dartmouth in 1964, it is an acronym for Beginner’s All-purpose Symbolic Instruction Code. It was designed with the intent of giving the non-science people an access to computers.
+Eiffel
+
+It is an object-oriented programming language that is ISO-standardized and used to develop extensible and reusable software. It is a development platform for many industries such as finance, aerospace and video gaming.
+Forth
+
+It is a structured imperative programming language, which bases its implementation on stacks. It supports an interactive execution of commands as well as the compilation of sequences of commands.
+Frink
+
+Developed by Alan Eliasen and named after Professor John Frink, a popular fictional character. It is based on the Java Virtual Machine and focuses on science and engineering. Its striking feature is that it tracks the units of measure through all the calculations that enables quantities to contain their units of measurement.
+Game Maker Language
+
+It is an interpreted computer programming language intended to be used in cooperation with Game Maker, an application for game creation. Mark Overmars, a Dutch computer scientist, designed this language.
+ICI
+
+Designed by Tim Long in 1992, ICI is a general purpose interpreted computer programming language. It supports dynamic typing, flexible data types and other language constructs similar to C.
+J
+
+Ken Iverson and Roger Hui developed this programming language that requires only the basic ASCII character set. It is an array programming language that works well with mathematical and statistical operations.
+Lisp
+
+Lisp is the second-oldest high-level programming language in widespread use today. The name Lisp is derived from ‘List Processing Language’. One of the important data structures that Lisp supports is linked list. Lisp programs deal with source code as a data structure.
+Lua
+
+Members of the Computer Graphics Technology Group developed Lua in 1993. It is an imperative and procedural programming language that was designed as a scripting language. It is known for being simple yet powerful.
+M
+
+M is short for MUMPS, a programming language created for the health care industry. Neil Pappalardo, the founder of medical information technology and his associates developed the M language.
+Pascal
+
+It is a procedural programming language that was intended to use data structuring and structured programming. Niklaus Wirth, a Swiss computer scientist designed this language and it was named after Blaise Pascal, a French mathematician and philosopher.
+PCASTL
+
+An acronym for by Parent and Childset Accessible Syntax Tree Language, it is a high-level language developed by Philippe Choquette and falls under the class of interpreted computer programming languages. It is specially designed for self-modifying code.
+Perl
+
+Perl is a high-level interpreted programming language that supports dynamic programming. It was developed by Larry Wall, a linguist who served as a systems administrator at NASA. It provides the programmers with text processing facilities and has a blend of features adopted from various languages like C, Lisp, and Awk.
+PostScript
+
+It is used in the desktop publishing field and is known as a page description language. It is a dynamically typed stack-based programming language developed by John Warnock, an American computer scientist and Charles Geschke, a notable figure in the field of computer science. These developers went on to found the very well-known company, Adobe Systems.
+Python
+
+It is a high-level programming language that supports imperative, object-oriented, and functional programming paradigms. In its features like the dynamic type system and automatic memory management, it is similar to Perl. Originally released in 1991 by Guido van Rossum, a Dutch computer programmer, Python is an open community-based language whose development is managed by the Python Software Foundation.
+REXX
+
+Short for Restructured Extended Executor, REXX is an interpreted language developed by IBM. It was designed with an intent to be an easily learnable and readable language. NetRexx is the IBM’s implementation of REXX that offers object-oriented programming. Object REXX is an object-oriented scripting language that is based on REXX.
+Ruby
+
+The efforts for developing this language initiated in Japan in the 1990s. Similar to Perl, it has a dynamic type system and an automatic memory management. It supports multiple programming paradigms and is a dynamic object-oriented language.
+S-Lang
+
+Originally developed as a stack-based language, S-Lang has evolved as a language similar to C. It was developed by John E. Davis.
+Spin
+
+It is a multitasking object-oriented programming language whose compiler converts the Spin code into bytecodes. Multiple Spin code threads can run at a time, thus enabling multitasking. Spin was developed by Chip Gracey of Parallax.
