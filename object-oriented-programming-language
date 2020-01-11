@@ -1,0 +1,58 @@
+Object-Oriented Programming Languages
+
+    Object-oriented programming (OOP) is a programming paradigm based on the concept of “objects”, which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods. In OOP, computer programs are designed by making them out of objects that interact with one another. (Wikipedia)
+
+Agora
+
+It is a prototype-based object-oriented programming language that features message passing mechanisms.
+BETA
+
+It is an object-oriented programming language wherein classes and procedures revolve around the same concept and classes are defined as attributes of objects. It has strong abstraction mechanisms. BETA also supports nested classes.
+Cecil
+
+This object-oriented language was created by Craig Chambers at the University of Washington. It is similar to Objective-C and Modula-3.
+Lava
+
+Lava is a visual object-oriented interpreter-based programming language.
+Lisaac
+
+It was the first compiled object-oriented programming language that was based on prototype concepts. It also supports system programming.
+MOO
+
+It is a dynamically typed prototype-based programming language that supports object-oriented programming. It supports exception handling mechanisms and looping constructs.
+Moto
+
+It is an open source server-side programming language that comes with state and session management objects and database connectivity.
+Object-Z
+
+It was developed at the University of Queensland, Australia. It extends the Z programming language by adding object-oriented features to it.
+Obliq
+
+It is an interpreted computer programming language that offers object-oriented programming features. It supports untyped variables and was designed for distributed and multithreaded computations.
+Oxygene
+
+Based on Object Pascal, Oxygene is an object-oriented programming language with a rich feature set. Previously, it was known as ‘Chrome’.
+Pliant
+
+It is based on a dynamic compiler and comes with a unique ability of supporting low-level instruction lists as well as high-level expressions.
+Prograph
+
+It is a visual object-oriented multi-paradigm language that uses symbols to signify the actions to be performed on data.
+REBOL
+
+REBOL is the acronym given to Relative Expression Based Object Language. It is designed for use on distributed platforms and in network communications.
+Scala
+
+The name Scala stands for Scalable Language. It is a multi-paradigm programming language, which offers object-oriented and functional programming features.
+Self
+
+It is an object-oriented prototype-based computer programming language. NewtonScript is used to write programs for Apple Newton and is largely influenced by Self.
+Slate
+
+This object-oriented programming language is based on the concept of prototypes. It derives some of its features from Smalltalk and some from the Self language. The Slate design is intended at providing the programmers with an operating system-like environment.
+XOTcl
+
+It is an object-oriented extension of the Tool Command Language that supports metaclasses and dynamic classes and methods.
+IO
+
+It is a pure object-oriented programming language having a prototype-based object model. It is small in size and can be executed on small portable virtual machines.
