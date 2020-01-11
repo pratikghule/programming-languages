@@ -1,0 +1,34 @@
+Concurrent Programming Languages
+
+    Concurrent programming is a computer programming technique that provides for the execution of operations concurrently — either within a single computer, or across a number of systems. In the latter case, the term distributed computing is used. (Wikipedia)
+
+ABCL
+
+It is actually a family of Actor-Based Concurrent Languages, which was developed in Japan during the 1980s and the 1990s. ABCL/1, ABCL/R, and ABCL/R2 are some members of the ABCL family.
+Afnix
+
+It is a multi-threaded functional programming language. Its interpreter is written in C++. Its runtime engine supports both 32 and 64 bit platforms.
+Cilk
+
+Created at the MIT Laboratory in 1994, Cilk supports multithreaded parallel programming.
+Concurrent Pascal
+
+Per Brinch Hansen, a Danish-American computer scientist created Concurrent Pascal for writing operating systems and programming real-time systems.
+E
+
+It is an object-oriented programming language that supports distributed programming. Mark Miller, Dan Bornstein and associates at the Electric Communities developed E in 1997. Its syntax resembles that of Java.
+Joule
+
+Joule is a concurrent dataflow programming language that preceded the E programming language. It is used for distributed applications.
+Limbo
+
+Developed at the Bell Labs, Limbo is used for programming distributed systems. Its striking feature is its compiler’s ability to generate architecture-independent object code. Limbo is used for applications running on Inferno operating system. Alex that was initially a part of the Plan 9 operating system is the predecessor of Limbo.
+Pict
+
+It is a statically typed programming language, which is in the experimental stage today.
+SALSA
+
+Short for Simple Actor Language System and Architecture, SALSA supports concurrent programming, message passing, and distributed computing. It uses Java code for portability.
+SR
+
+Acronym of Synchronizing Resources, SR is a concurrent programming language.
