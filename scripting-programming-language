@@ -1,0 +1,43 @@
+Procedural Programming Languages
+
+    Procedural (imperative) programming implies specifying the steps that the programs should take to reach to an intended state. A procedure is a group of statements that can be referenced through a procedure call. Procedures help in the reuse of code. Procedural programming makes the programs structured and easily traceable for program flow.
+
+Bliss
+
+It is a system programming language and was one of the best-known languages of this type till C came up. W.A. Wolf, D.B. Russell and A.N. Habermann of the Carnegie Mellon University developed Bliss. It includes exception handling mechanisms, coroutines and macros while it excludes the goto statement.
+ChucK
+
+It is a concurrent and strongly timed audio programming language that runs on Mac OS X, Linux as well as Microsoft Windows. It is especially known for the ability it gives to the programmers to do some modifications even in the running programs.
+CLIST
+
+It is a procedural programming language in the form of a set of commands that need to be executed in a sequence like that of a batch file.
+HyperTalk
+
+It is a high-level programming language that was intended to be used by programmers at the beginner’s level. The programmers of this computer language were known as authors and the act of writing programs was called scripting. HyperTalk was designed by Dan Winker in 1987. Structurally, it resembles Pascal.
+Modula-2
+
+It is a general-purpose procedural language created in 1978 by Niklaus Wirth at ETH. It is similar to Pascal and has systems programming and multiprogramming features.
+Oberon
+
+Niklaus Wirth, the man behind Pascal and Modula came up with Oberon in 1986. It was designed as a part of the Oberon operating system. It is similar to Modula-2 but smaller than it.
+Component Pascal
+
+It is a programming language that seems to be related to Pascal, but is actually incompatible with it. It is actually a variant of Oberon-2. Lagoona is an experimental programming language that supports component-oriented programming, a paradigm of decomposing a system into logical or functional components. Michael Franz, a student of Niklaus Wirth developed Lagoona. Seneca, better known as Oberon-2 is an extension of the Oberon programming language.
+MATLAB
+
+It is a numerical computing environment and a programming language that enables matrix computations, function plotting, and algorithm implementation. It can also be used for user interface creation. MathWorks created MATLAB.
+Occam
+
+It is an imperative procedural language that was developed by David May and his colleagues at INMOS. It is similar to Pascal. Occam-pi is a variant of Occam that has been extended to include nested protocols, recursion, protocol inheritance, array constructors and run-time process creation.
+PL/C
+
+It was developed for being used to teach programming. It was created at the Cornell University in the 1970s.
+PL/I
+
+It is an imperative computer programming language targeted at scientific and engineering applications. Mainly intended to perform data processing, it also supports structured programming and recursion.
+Rapira
+
+It is a procedural programming language that was used in teaching computer programming in Soviet schools. Developed in the USSR, initially this language had Russian-based keywords. English keywords were incorporated later.
+RPG
+
+This programming language is used for business applications. It is available with the IBM’s System I midrange computers.
