@@ -1,0 +1,67 @@
+Compiled Programming Languages
+
+    A compiled language is a programming language whose implementations are typically compilers (translators that generate machine code from source code), and not interpreters (step-by-step executors of source code, where no pre-runtime translation takes place). (Wikipedia)
+
+Ada
+
+It is a statically typed, structured, imperative programming language that is based on Pascal. A team of CII Honeywell Bull that was led by Jean Ichbiah developed Ada. The Ada compilers are validated for mission-critical systems. Ada is an internationally standardized computer programming language.
+ALGOL
+
+Algorithmic Language, as it is called, is actually a family of imperative programming languages that was developed in the middle 1950s. It proved instrumental in the creation of programming languages like BCPL, B and C. Ole-Johan Dahl and Kristen Nygaard of the Norwegian Computing Center in Oslo were the brains behind Simula.
+C
+
+Dennis Ritchie at the Bell Telephone Laboratories developed C to be used on the Unix platform. It is a general-purpose, cross-platform, procedural, imperative programming language. It is used for implementing system software and application software and is one of the most-used computer programming languages of today. The development of C++ and C# was influenced by C.
+C++
+
+It consists of a combination of high-level and low-level language features and is hence considered as a middle-level programming language. Bjarne Stroustrup of Bell Labs developed C++ as an extension of the C language. Originally known as ‘C with Classes’, it came to be known as C++ from 1983. It is a multi-paradigm language that supports procedural programming, generic programming, object-oriented programming, and data abstraction.
+C#
+
+C Sharp is a multi-paradigm programming language that supports imperative, generic and object-oriented programming. It is a part of the Microsoft .NET Framework. It is similar to C++ in its object-oriented syntax and is also influenced by Java and Delphi.
+CLEO
+
+It is known as the Clear Language for Expressing Orders and is a computer language for the LEO computer.
+COBOL
+
+The name stands for Common Business-Oriented Language that is designed for the business and finance domain. COBOL 2002 standard supports object-oriented programming. It is one of the very old programming languages that are still in use.
+Cobra
+
+It is an object-oriented programming language that runs on .NET and Mono frameworks. Chuck Esterbrook developed it. Its design is influenced by languages like Python and C#. It supports static and dynamic typing and is suited for unit tests. Today, it is an open source project.
+D
+
+Originally designed as an enhancement of C++, it is also influenced by Java, Eiffel, and C#. It is an object-oriented, imperative, multi-paradigm system programming language developed by Walter Bright of Digital Mars.
+DASL
+
+Acronym of Distributed Application Specification Language, it is a high-level, strongly typed programming language that was developed at the Sun Microsystems. It was created with an intent to be used for developing web applications.
+DIBOL
+
+Acronym of Digital Interactive Business Oriented Language, DIBOL is a general-purpose procedural imperative programming language. It is fairly similar to COBOL as it’s best suited for the development of Management Information Systems.
+Fortran
+
+It is a procedural, imperative, general purpose computer programming language that works well for scientific computations and numeric operations. After IBM developed it in the 1950s, it soon gained popularity in programming. It is very popular in the field of high-performance computing. It is a structured and compiled programming language that is a subset of Fortran95. Fortran 2003, a revised version of Fortran supports object-oriented programming.
+Java
+
+It is a general-purpose computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. Compiled Java code can run on all platforms that support Java without the need for recompilation. It is a very popular language of the modern times.
+JOVIAL
+
+It is a high-order computer programming language similar to ALGOL. It is best-suited to the design and development of embedded systems.
+Objective-C
+
+It is a reflective object-oriented programming language that adds messaging services to C.
+SMALL
+
+The name stands for Small Machine Algol-like Language. It provides the programmers with abilities to write an ALGOL-like code that can be run on small machines.
+Smalltalk
+
+It is a reflective, object-oriented programming language that supports dynamic typing. Alan Kay, Adele Goldberg, Dan Ingalls, Scott Wallace, Ted Kaehler and their associates at Xerox PARC developed Smalltalk. They designed it for educational use and it soon became popular. VisualWorks is a prominent implementation of Smalltalk. Squeak is a programming language that is in the form of an implementation of Smalltalk. Scratch is a visual programming language based on Squeak.
+Turing
+
+It was developed by Ric Holt and James Cordy of the University of Toronto, Canada, in 1982. It was named in honor of the British computer scientist, Alan Turing. This Pascal-like language is a freeware since 2007.
+Visual Basic
+
+It is an event-driven programming language that is packaged with an integrated development environment. It inherits many of its features from BASIC. Its graphical development features make it easy for beginners to learn VB.
+Visual FoxPro
+
+It is an object-oriented and procedural programming language derived from FoxPro. It is integrated with a relational database system of its own and does not require an additional programming environment. It supports dynamic programming.
+XL
+
+It is created with an intent to support concept programming, a programming paradigm that focuses on how concepts residing in a programmer’s mind can be transformed into code constructs. Programmers can reconfigure XL’s syntax and semantics.
