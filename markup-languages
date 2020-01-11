@@ -1,0 +1,19 @@
+Markup Languages
+
+    A markup language is an artificial language that uses annotations to text that define how the text is to be displayed.
+
+Curl
+
+It is a reflective object-oriented programming language. It is a markup language similar to HTML. Curl is an object-oriented programming language supporting multiple inheritance.
+SGML
+
+Standardized General Markup Language (SGML) has descended from IBM’s Generalized Markup Language. It is an ISO standard metalanguage that can define markup languages for documents. It was designed with the intent of sharing machine-readable documents of large projects that had to be retained for long years.
+HTML
+
+Hypertext Markup Language, abbreviated as HTML, is the most prominent markup language that is used for web pages. It is written in the form of HTML tags that are surrounded by angular brackets. HTML tags describe the appearance of the text in a document and can be embedded into certain other code to affect the web browser behavior. HTML uses the SGML default syntax.
+XML
+
+The name stands for Extensible Markup Language. It is extensible because it allows the users to define their own XML elements. It supports the sharing of structured data over the Internet and the encoding and serializing of data. It originated as a subset of SGML. XPath is the XML Path Language that is used to select nodes from an XML document. It supports the computation of values. XQuery is used to query the collections of XML data. Extensible Stylesheet Language Transformations (XSLT) is an XML-based language that is used for the transformation of XML documents into human-readable formats. Apache Ant is a tool for the automation of software build processes. It uses XML to describe the build processes.
+XHTML
+
+It is a markup language that is similar to HTML and follows the XML syntax. It is midway between HTML and XML. XHTML documents allow automated processing of data.
