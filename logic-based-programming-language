@@ -1,0 +1,28 @@
+Logic-based Programming Languages
+
+    Logic programming is a type of programming paradigm which is largely based on formal logic. Any program written in a logic programming language is a set of sentences in logical form, expressing facts and rules about some problem domain. (Wikipedia)
+
+ALF
+
+Algebraic Logic Functional Programming Language is a multi-paradigm programming language that is a combination of functional programming and logic programming. ALF program statements are compiled into instructions of an abstract machine. An emulator written in C executes the programs of the abstract machine.
+Fril
+
+Fril language was designed by Trevor Martin and Jim Baldwin at the University of Bristol in the 1980s. It is for first-order predicate calculus. It supports fuzzy sets and metaprogramming and is based on the Prolog syntax.
+Janus
+
+Janus supports concurrent and constraint programming.
+Leda
+
+This computer programming language is a blend of logic-based, functional, imperative and object-oriented programming. It is thus one of the multi-paradigm languages.
+Oz
+
+It is a multi-paradigm language that supports functional, logic-based, imperative and object-oriented programming. Oz also supports concurrent and distributed programming. Constraint programming that is supported by Oz is one of the strengths of this language.
+Poplog
+
+It is a powerful multi-paradigm software development environment whose core language is POP-11. All the languages of this development environment share a common language editor and are incrementally compiled programming languages.
+Prolog
+
+It is a general-purpose programming language that supports logic programming and is often linked with artificial intelligence and computational linguistics. The language is declarative and the program logic is expressed in the form of relations. Mercury is a functional logic programming language that is based on Prolog. Strawberry Prolog is a dialect of Prolog, which is supposed to be easy to use. Visual Prolog is a strongly typed extension of Prolog that supports object-oriented programming. It is a compiled logic-based programming language.
+ROOP
+
+It is a multi-paradigm language that is built on C++. It is intended to be used with artificial intelligence systems. Its features offer a blend of procedural, logic-based, and object-oriented programming.
